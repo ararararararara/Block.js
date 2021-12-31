@@ -83,3 +83,7 @@ console.log('Is blockchain valid? ' + markCoin.isChainValid());
 // markCoin.chain[1].hash = markCoin.chain[1].calculateHash();
 // console.log('Is blockchain valid? ' + markCoin.isChainValid());
 ```
+
+실행화면
+![99999](https://user-images.githubusercontent.com/89236248/147815496-d2ffe0c1-beaf-4fcf-b1f6-87529fed1452.png)
+
